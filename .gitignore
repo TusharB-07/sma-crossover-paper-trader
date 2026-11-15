@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Streamlit secrets (never commit credentials)
+.streamlit/secrets.toml
+
+# Editors
+.vscode/
+.idea/
+*.swp
